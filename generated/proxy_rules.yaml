@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,opensubtitles.com
   - DOMAIN-SUFFIX,opentrackr.org
   - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,postcrossing.com
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,replicate.com
