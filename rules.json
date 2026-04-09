@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jetbrains.com",
+        "intellij.net",
+        "cursor.sh",
+        "cursorapi.com",
+        "cursor-cdn.com",
+
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openaimerge.com",
+
+        "auth0.com",
+        "workos.com",
+        "workoscdn.com",
+        "workos.imgix.net",
+
+        "statsig.com",
+        "statsigapi.net",
+
+        "google.com",
+
+        "huggingface.co",
+        "jina.ai",
+        "replicate.com",
+        "openrouter.ai",
+        "cohere.ai",
+        "perplexity.ai",
+
+        "discordapp.org",
+        "discordapp.io",
+        "discordstatus.com",
+        "twimg.com",
+
+        "steampowered.com",
+        "steamcommunity.com",
+        "steamstatic.com",
+        "steamserver.net",
+        "steamgames.com",
+        "steamgames.net",
+        "valve.net",
+        "valvesoftware.com",
+        "valvecorporation.com",
+        "steamdeck.com",
+        "steam.tv",
+        "steam-chat.com",
+        "s.team",
+
+        "etsy.com",
+        "etsystatic.com",
+
+        "shikimori.org",
+        "shikimori.io",
+        "jut.su",
+
+        "imdb.com",
+        "amazon.com",
+        "ssl-images-amazon.com",
+        "media-amazon.com",
+        "amazon-adsystem.com",
+
+        "cloudfront.net",
+        "s3.amazonaws.com",
+        "akamaized.net",
+        "edgesuite.net",
+
+        "ytimg.com",
+        "cookielaw.org",
+        "transcend-cdn.com",
+        "yandexwebcache.org",
+
+        "clearbit.com",
+        "geni.us",
+        "genius.com",
+        "candlescience.com",
+        "speeddial2.com",
+
+        "microsoft.com",
+        "windowsupdate.com",
+        "mp.microsoft.com",
+
+        "arc.net",
+        "diabrowser.engineering",
+        "datadoghq.com",
+        "segment.io",
+
+        "intercom.io",
+        "intercomcdn.com",
+        "stripe.com",
+        "sendgrid.net",
+
+        "featureassets.org",
+        "featuregates.org",
+
+        "adguard-dns.com",
+
+        "sourceforge.net",
+        "groundcontrol.film",
+        "binarynights.com",
+
+        "postcrossing.com",
+        "game8.co",
+        "opensubtitles.com",
+
+        "1337x.to",
+        "rargb.to",
+        "yourbittorrent.com",
+        "thepiratebay.org",
+        "thepiratebay.se",
+        "rutracker.ru",
+        "opentrackr.org",
+        "zetfix.online",
+        "4pda.ru",
+        "nyaa.si",
+        "appstorrent.ru"
+      ]
+    }
+  ]
+}
