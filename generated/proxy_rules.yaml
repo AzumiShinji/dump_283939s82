@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,datadoghq.com
   - DOMAIN-SUFFIX,diabrowser.engineering
+  - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordapp.org
   - DOMAIN-SUFFIX,discordstatus.com
