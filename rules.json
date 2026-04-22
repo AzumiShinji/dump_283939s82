@@ -3,6 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
+        "api-euca.midea.com",
+"mp-eu-prod.appsmb.com",
+"qrscan.aiiciot.com",
+"sentry-eu.msmartlife.net",
+"sse-eu.msmartlife.net",
         "jetbrains.com",
         "intellij.net",
         "cursor.sh",
