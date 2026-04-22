@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,api-euca.midea.com
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,auth0.com
@@ -45,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,mp-eu-prod.appsmb.com
   - DOMAIN-SUFFIX,mp.microsoft.com
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,oaistatic.com
@@ -57,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,postcrossing.com
+  - DOMAIN-SUFFIX,qrscan.aiiciot.com
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,replicate.com
   - DOMAIN-SUFFIX,rutracker.ru
@@ -64,10 +67,12 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sendgrid.net
+  - DOMAIN-SUFFIX,sentry-eu.msmartlife.net
   - DOMAIN-SUFFIX,shikimori.io
   - DOMAIN-SUFFIX,shikimori.org
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speeddial2.com
+  - DOMAIN-SUFFIX,sse-eu.msmartlife.net
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,statsigapi.net
