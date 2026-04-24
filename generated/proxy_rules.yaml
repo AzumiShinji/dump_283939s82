@@ -33,10 +33,12 @@ payload:
   - DOMAIN-SUFFIX,game8.co
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,groundcontrol.film
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ign.com
   - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,inputsource.pro
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
