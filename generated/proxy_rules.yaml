@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,binarynights.com
   - DOMAIN-SUFFIX,candlescience.com
-  - DOMAIN-SUFFIX,cdn.discordapp.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,clearbit.com
   - DOMAIN-SUFFIX,cloudfront.net
@@ -21,10 +20,6 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,datadoghq.com
   - DOMAIN-SUFFIX,diabrowser.engineering
-  - DOMAIN-SUFFIX,discordapp.com
-  - DOMAIN-SUFFIX,discordapp.io
-  - DOMAIN-SUFFIX,discordapp.org
-  - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,etsystatic.com
