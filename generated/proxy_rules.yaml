@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,auth0.com
@@ -38,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,groundcontrol.film
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ign.com
-  - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,inputsource.pro
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intercom.io
