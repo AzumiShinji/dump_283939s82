@@ -15,9 +15,6 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cohere.ai
   - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,cursor-cdn.com
-  - DOMAIN-SUFFIX,cursor.sh
-  - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,datadoghq.com
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,edgesuite.net
