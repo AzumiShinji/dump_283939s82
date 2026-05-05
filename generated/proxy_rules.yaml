@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,opensubtitles.com
   - DOMAIN-SUFFIX,opentrackr.org
+  - DOMAIN-SUFFIX,packagecontrol.io
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,postcrossing.com
