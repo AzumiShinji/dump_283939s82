@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,4pda.ru
+  - DOMAIN-SUFFIX,a.ltrbxd.com
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,amazon-adsystem.com
@@ -8,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,awsglobalaccelerator.com
   - DOMAIN-SUFFIX,binarynights.com
   - DOMAIN-SUFFIX,candlescience.com
   - DOMAIN-SUFFIX,chatgpt.com
@@ -16,8 +18,14 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cohere.ai
   - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,datadoghq.com
   - DOMAIN-SUFFIX,diabrowser.engineering
+  - DOMAIN-SUFFIX,discordapp.io
+  - DOMAIN-SUFFIX,discordapp.org
+  - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,etsystatic.com
@@ -27,10 +35,10 @@ payload:
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,getcomposer.org
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,groundcontrol.film
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ign.com
+  - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,inputsource.pro
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intercom.io
@@ -42,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,mzrobo.com
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -57,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,replicate.com
   - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,s.ltrbxd.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,segment.io
