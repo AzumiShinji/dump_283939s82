@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,sendgrid.net
   - DOMAIN-SUFFIX,shikimori.io
   - DOMAIN-SUFFIX,shikimori.org
+  - DOMAIN-SUFFIX,skilljar.com
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speeddial2.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
