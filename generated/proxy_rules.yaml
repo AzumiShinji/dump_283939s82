@@ -3,9 +3,12 @@ payload:
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,a.ltrbxd.com
   - DOMAIN-SUFFIX,adguard-dns.com
+  - DOMAIN-SUFFIX,aftercredits.com
   - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,alternativemovieposters.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,animationscreencaps.com
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,auth0.com
@@ -46,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,jut.su
+  - DOMAIN-SUFFIX,kaizen.ohamaruri.com
   - DOMAIN-SUFFIX,ltrbxd.com
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,microsoft.com
@@ -63,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,postcrossing.com
+  - DOMAIN-SUFFIX,posterspy.com
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,replicate.com
   - DOMAIN-SUFFIX,rutracker.ru
@@ -76,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,skilljar.com
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speeddial2.com
+  - DOMAIN-SUFFIX,spoke-art.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,statsigapi.net
@@ -92,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,thepiratebay.se
+  - DOMAIN-SUFFIX,theposterdb.com
   - DOMAIN-SUFFIX,transcend-cdn.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,valve.net
