@@ -2,7 +2,8 @@ import json
 from pathlib import Path
 
 SRC = Path("rules.json")
-DST = Path("generated/proxy_rules.yaml")
+DST_YAML = Path("generated/proxy_rules.yaml")
+DST_LIST = Path("generated/proxy_rules.list")
 
 def main() -> None:
     data = json.loads(SRC.read_text(encoding="utf-8"))
@@ -18,12 +19,15 @@ def main() -> None:
                 domain = domain[1:]
             result.add(domain)
 
-    lines = ["payload:"]
-    for domain in sorted(result):
-        lines.append(f"  - DOMAIN-SUFFIX,{domain}")
+    domains = sorted(result)
 
-    DST.parent.mkdir(parents=True, exist_ok=True)
-    DST.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    DST_YAML.parent.mkdir(parents=True, exist_ok=True)
+
+    yaml_lines = ["payload:"] + [f"  - DOMAIN-SUFFIX,{d}" for d in domains]
+    DST_YAML.write_text("\n".join(yaml_lines) + "\n", encoding="utf-8")
+
+    list_lines = [f"DOMAIN-SUFFIX,{d}" for d in domains]
+    DST_LIST.write_text("\n".join(list_lines) + "\n", encoding="utf-8")
 
 if __name__ == "__main__":
     main()
