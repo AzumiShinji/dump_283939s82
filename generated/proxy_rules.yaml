@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,awsglobalaccelerator.com
   - DOMAIN-SUFFIX,binarynights.com
+  - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,candlescience.com
   - DOMAIN-SUFFIX,cdn-gslb.spotify.com
   - DOMAIN-SUFFIX,cdn.spotify.com
@@ -31,15 +32,18 @@ payload:
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordapp.org
   - DOMAIN-SUFFIX,discordstatus.com
+  - DOMAIN-SUFFIX,downloads.openwrt.org
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,etsystatic.com
   - DOMAIN-SUFFIX,featureassets.org
   - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,formulae.brew.sh
   - DOMAIN-SUFFIX,game8.co
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,getcomposer.org
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,groundcontrol.film
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ign.com
@@ -58,6 +62,8 @@ payload:
   - DOMAIN-SUFFIX,launchosapp.com
   - DOMAIN-SUFFIX,ltrbxd.com
   - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,media-imdb.com
+  - DOMAIN-SUFFIX,mempalaceofficial.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,mobileread.com
   - DOMAIN-SUFFIX,mp.microsoft.com
@@ -70,18 +76,28 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,opensubtitles.com
   - DOMAIN-SUFFIX,opentrackr.org
+  - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,packagecontrol.io
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,postcrossing.com
   - DOMAIN-SUFFIX,posterspy.com
   - DOMAIN-SUFFIX,rargb.to
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,replicate.com
+  - DOMAIN-SUFFIX,ru-tracker.net
+  - DOMAIN-SUFFIX,rutracker.cc
+  - DOMAIN-SUFFIX,rutracker.me
+  - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,rutracker.nl
+  - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,s.ltrbxd.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,scriptlets.notmarek.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sendgrid.net
   - DOMAIN-SUFFIX,shikimori.io
@@ -92,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,spoke-art.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,steam-chat.com
@@ -108,7 +125,9 @@ payload:
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,thepiratebay.se
   - DOMAIN-SUFFIX,theposterdb.com
+  - DOMAIN-SUFFIX,torrents.ru
   - DOMAIN-SUFFIX,transcend-cdn.com
+  - DOMAIN-SUFFIX,tvthemes.plexapp.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvecorporation.com
