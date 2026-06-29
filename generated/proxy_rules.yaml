@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,binarynights.com
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,candlescience.com
+  - DOMAIN-SUFFIX,cdn-gslb.spotify.com
+  - DOMAIN-SUFFIX,cdn.spotify.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,clearbit.com
@@ -93,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,s.ltrbxd.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,s3.amazonaws.com
+  - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,scriptlets.notmarek.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sendgrid.net
@@ -102,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speeddial2.com
   - DOMAIN-SUFFIX,spoke-art.com
+  - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,statsig.com
