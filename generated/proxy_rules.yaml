@@ -9,7 +9,9 @@ payload:
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,binarynights.com
+  - DOMAIN-SUFFIX,blackscreenrecords.com
   - DOMAIN-SUFFIX,candlescience.com
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,clearbit.com
@@ -17,10 +19,13 @@ payload:
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,dhl.com
+  - DOMAIN-SUFFIX,dhl.de
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,downloads.k8slens.dev
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,etsystatic.com
+  - DOMAIN-SUFFIX,eu.gear.cdprojektred.com
   - DOMAIN-SUFFIX,game8.co
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
@@ -35,6 +40,9 @@ payload:
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,kaizen.ohamaruri.com
   - DOMAIN-SUFFIX,ltrbxd.com
+  - DOMAIN-SUFFIX,media-imdb.com
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mempalaceofficial.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,mp.microsoft.com
@@ -50,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,posterspy.com
+  - DOMAIN-SUFFIX,postman.com
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,replicate.com
   - DOMAIN-SUFFIX,rikudou.ru
@@ -62,11 +71,14 @@ payload:
   - DOMAIN-SUFFIX,rutracker.ru
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,s.ltrbxd.com
+  - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,scriptlets.notmarek.com
   - DOMAIN-SUFFIX,shikimori.io
   - DOMAIN-SUFFIX,shikimori.org
   - DOMAIN-SUFFIX,speeddial2.com
   - DOMAIN-SUFFIX,spoke-art.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,strudel.cc
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,thepiratebay.se
