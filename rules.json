@@ -118,7 +118,21 @@
         "thepiratebay.se",
         "torrents.ru",
         "yourbittorrent.com",
-        "zetfix.online"
+        "zetfix.online",
+
+        "anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "mistral.ai",
+        "chat.com",
+        "livekit.cloud",
+        "jetbrains.ai",
+        "jetbrains.cloud",
+        "cdn.agentclientprotocol.com",
+        "ibb.co",
+        "imgbb.com",
+        "cdn.perfops.net",
+        "simgbb.com"
       ]
     }
   ]
