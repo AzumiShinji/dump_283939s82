@@ -3,27 +3,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "cursor-cdn.com",
-        "cursor.sh",
-        "cursorapi.com",
         "getcomposer.org",
         "intellij.net",
         "jetbrains.com",
         "packagecontrol.io",
         "phpstan.org",
         
-        "chatgpt.com",
-        "claudemcpcontent.com",
-        "cohere.ai",
-        "huggingface.co",
-        "jina.ai",
-        "oaistatic.com",
-        "oaiusercontent.com",
-        "openai.com",
-        "openaimerge.com",
-        "openrouter.ai",
-        "perplexity.ai",
-        "replicate.com",
         "clearbit.com",
         "downloads.k8slens.dev",
         "api.k8slens.dev",
@@ -120,19 +105,46 @@
         "yourbittorrent.com",
         "zetfix.online",
 
-        "anthropic.com",
-        "claude.ai",
-        "claude.com",
-        "mistral.ai",
-        "chat.com",
         "livekit.cloud",
-        "jetbrains.ai",
         "jetbrains.cloud",
-        "cdn.agentclientprotocol.com",
         "ibb.co",
         "imgbb.com",
         "cdn.perfops.net",
-        "simgbb.com"
+        "simgbb.com",
+        "app.ftscrt.com",
+        "fatsecret.com",
+        "fatsecret-dataplane.rudderstack.com",
+        "lgtvsdp.com",
+        "1001albumsgenerator.com",
+        "static.remixdesign.app"
+      ]
+    },
+    {
+      "name": "ai",
+      "domain_suffix": [
+        "anthropic.com",
+        "cdn.agentclientprotocol.com",
+        "chat.com",
+        "chatgpt.com",
+        "claude.ai",
+        "claude.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
+        "cohere.ai",
+        "cursor-cdn.com",
+        "cursor.sh",
+        "cursorapi.com",
+        "huggingface.co",
+        "jetbrains.ai",
+        "jina.ai",
+        "mistral.ai",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "openaimerge.com",
+        "openrouter.ai",
+        "perplexity.ai",
+        "replicate.com"
       ]
     }
   ]

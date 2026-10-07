@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "anthropic.com",
+        "cdn.agentclientprotocol.com",
+        "chat.com",
+        "chatgpt.com",
+        "claude.ai",
+        "claude.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
+        "cohere.ai",
+        "cursor-cdn.com",
+        "cursor.sh",
+        "cursorapi.com",
+        "huggingface.co",
+        "jetbrains.ai",
+        "jina.ai",
+        "mistral.ai",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "openaimerge.com",
+        "openrouter.ai",
+        "perplexity.ai",
+        "replicate.com"
+      ]
+    }
+  ]
+}

@@ -1,32 +1,23 @@
 payload:
+  - DOMAIN-SUFFIX,1001albumsgenerator.com
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,a.ltrbxd.com
   - DOMAIN-SUFFIX,aftercredits.com
   - DOMAIN-SUFFIX,alternativemovieposters.com
   - DOMAIN-SUFFIX,animationscreencaps.com
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api.k8slens.dev
+  - DOMAIN-SUFFIX,app.ftscrt.com
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,binarynights.com
   - DOMAIN-SUFFIX,blackscreenrecords.com
   - DOMAIN-SUFFIX,candlescience.com
-  - DOMAIN-SUFFIX,cdn.agentclientprotocol.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.perfops.net
   - DOMAIN-SUFFIX,cdprojektred.com
-  - DOMAIN-SUFFIX,chat.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,claude.com
-  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,clearbit.com
   - DOMAIN-SUFFIX,cloudflarestream.com
-  - DOMAIN-SUFFIX,cohere.ai
-  - DOMAIN-SUFFIX,cursor-cdn.com
-  - DOMAIN-SUFFIX,cursor.sh
-  - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,dhl.com
   - DOMAIN-SUFFIX,dhl.de
   - DOMAIN-SUFFIX,diabrowser.engineering
@@ -34,26 +25,26 @@ payload:
   - DOMAIN-SUFFIX,downloads.k8slens.dev
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,etsystatic.com
+  - DOMAIN-SUFFIX,fatsecret-dataplane.rudderstack.com
+  - DOMAIN-SUFFIX,fatsecret.com
   - DOMAIN-SUFFIX,formulae.brew.sh
   - DOMAIN-SUFFIX,game8.co
   - DOMAIN-SUFFIX,geni.us
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,groundcontrol.film
-  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ia.net
   - DOMAIN-SUFFIX,ibb.co
   - DOMAIN-SUFFIX,imgbb.com
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,kaizen.ohamaruri.com
   - DOMAIN-SUFFIX,launchosapp.com
+  - DOMAIN-SUFFIX,lgtvsdp.com
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,ltrbxd.com
   - DOMAIN-SUFFIX,media-imdb.com
@@ -61,25 +52,17 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mempalaceofficial.com
   - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mp.microsoft.com
   - DOMAIN-SUFFIX,notionusercontent.com
   - DOMAIN-SUFFIX,nyaa.si
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,openaimerge.com
-  - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,opensubtitles.com
   - DOMAIN-SUFFIX,opentrackr.org
   - DOMAIN-SUFFIX,packagecontrol.io
   - DOMAIN-SUFFIX,pecl.php.net
-  - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,phpstan.org
   - DOMAIN-SUFFIX,posterspy.com
   - DOMAIN-SUFFIX,postman.com
   - DOMAIN-SUFFIX,rargb.to
-  - DOMAIN-SUFFIX,replicate.com
   - DOMAIN-SUFFIX,rikudou.ru
   - DOMAIN-SUFFIX,ru-tracker.net
   - DOMAIN-SUFFIX,rutracker.cc
@@ -99,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,spoke-art.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,static.remixdesign.app
   - DOMAIN-SUFFIX,strudel.b-cdn.net
   - DOMAIN-SUFFIX,strudel.cc
   - DOMAIN-SUFFIX,substack.com

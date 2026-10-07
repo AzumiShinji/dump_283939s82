@@ -28,10 +28,21 @@ jobs:
       - name: Convert
         run: python scripts/convert_rules.py
 
+      - name: Install sing-box
+        run: |
+          VER=$(curl -fsSL https://api.github.com/repos/SagerNet/sing-box/releases/latest | jq -r .tag_name | sed 's/^v//')
+          curl -fsSL "https://github.com/SagerNet/sing-box/releases/download/v${VER}/sing-box-${VER}-linux-amd64.tar.gz" | tar xz --strip-components=1 -C /usr/local/bin "sing-box-${VER}-linux-amd64/sing-box"
+
+      - name: Compile SRS
+        run: |
+          for f in generated/*.json; do
+            sing-box rule-set compile "$f" -o "${f%.json}.srs"
+          done
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/proxy_rules.yaml
+          git add generated/
           git diff --cached --quiet || git commit -m "update rules"
           git push
