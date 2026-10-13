@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "docker-curriculum.com",
         "getcomposer.org",
         "intellij.net",
         "jetbrains.com",
