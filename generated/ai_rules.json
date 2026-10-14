@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "agentclientprotocol.com",
         "anthropic.com",
         "cdn.agentclientprotocol.com",
         "chat.com",

@@ -117,12 +117,17 @@
         "fatsecret-dataplane.rudderstack.com",
         "lgtvsdp.com",
         "1001albumsgenerator.com",
-        "static.remixdesign.app"
+        "static.remixdesign.app",
+        "japanesepod101.com",
+        "notchy.dev",
+        "comic-walker.com",
+        "buggregator.dev"
       ]
     },
     {
       "name": "ai",
       "domain_suffix": [
+        "agentclientprotocol.com",
         "anthropic.com",
         "cdn.agentclientprotocol.com",
         "chat.com",
