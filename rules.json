@@ -66,7 +66,15 @@
 
         "media-imdb.com",
 
+        "a2z.com",
         "amazon.com",
+        "amazonaws.com",
+        "amazoncognito.com",
+        "awsapps.com",
+        "awsstatic.com",
+        "cloudfront.net",
+        "media-amazon.com",
+        "ssl-images-amazon.com",
 
         "postman.com",
 
