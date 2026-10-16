@@ -2,14 +2,19 @@ DOMAIN-SUFFIX,1001albumsgenerator.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,a.ltrbxd.com
+DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aftercredits.com
 DOMAIN-SUFFIX,alternativemovieposters.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,animationscreencaps.com
 DOMAIN-SUFFIX,api.k8slens.dev
 DOMAIN-SUFFIX,app.ftscrt.com
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,awsapps.com
+DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,binarynights.com
 DOMAIN-SUFFIX,blackscreenrecords.com
 DOMAIN-SUFFIX,buggregator.dev
@@ -19,6 +24,7 @@ DOMAIN-SUFFIX,cdn.perfops.net
 DOMAIN-SUFFIX,cdprojektred.com
 DOMAIN-SUFFIX,clearbit.com
 DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,comic-walker.com
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,dhl.de
@@ -51,6 +57,7 @@ DOMAIN-SUFFIX,launchosapp.com
 DOMAIN-SUFFIX,lgtvsdp.com
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,ltrbxd.com
+DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
@@ -86,6 +93,7 @@ DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,speeddial2.com
 DOMAIN-SUFFIX,spoke-art.com
 DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static.cloudflareinsights.com
 DOMAIN-SUFFIX,static.remixdesign.app
 DOMAIN-SUFFIX,strudel.b-cdn.net
